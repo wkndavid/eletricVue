@@ -1,4 +1,4 @@
 
 <template>
-    <h1>Hellow!</h1>
+    <h1>SectionProfile</h1>
 </template>
