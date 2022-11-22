@@ -1,6 +1,7 @@
 <script setup>
-import HelloWorld from './components/HelloWorld.vue'
+import HeaderProfile from './components/HeaderProfile.vue'
 import TheWelcome from './components/TheWelcome.vue'
+import SectionProfile from './components/SectionProfile.vue'
 </script>
 
 <template>
@@ -8,13 +9,17 @@ import TheWelcome from './components/TheWelcome.vue'
     <img alt="Vue logo" class="logo" src="./assets/logo.svg" width="125" height="125" />
 
     <div class="wrapper">
-      <HelloWorld msg="Daniel !" />
+      <HeaderProfile />
     </div>
   </header>
 
   <main>
     <TheWelcome />
   </main>
+
+  <section>
+    <SectionProfile />
+  </section>
 </template>
 
 <style scoped>

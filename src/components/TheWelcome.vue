@@ -8,5 +8,5 @@ import SupportIcon from './icons/IconSupport.vue'
 </script>
 
 <template>
-  <h1>vamos começar!</h1>
+  <h1>Olá</h1>
 </template>
