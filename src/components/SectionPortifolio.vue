@@ -1,4 +1,4 @@
 
 <template>
-  <h1>SectionPortifolio</h1>
+  <h1></h1>
 </template>
